@@ -1,0 +1,6 @@
+10 run 100 80
+10 run 100 100
+baseline 5-fold with 1 allgroups: {'swearing': 0.37980552766126263, 'flaming': 0.502381435131394, 'avg': 0.43139790940682265, 'polite': 0.4528313042689427, 'notflaming': 0.39057337056569136} 
+baseline 5-fold with 0 allgroups: {'flaming': 0.41302412490627916, 'avg': 0.6231312486058618, 'notflaming': 0.8332383723054445} 
+baseline 10-fold with 0 allgroups: {'flaming': 0.40705598612684896, 'avg': 0.6168147064588764, 'notflaming': 0.8265734267909037} 
+baseline 10-fold with 1 allgroups: {'swearing': 0.3612603307684024, 'flaming': 0.503540346507765, 'avg': 0.4264335478991598, 'polite': 0.45507033152931314, 'notflaming': 0.3858631827911588} 
